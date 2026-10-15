@@ -1,0 +1,4 @@
+/* 保留原版画布排布；只为本地错误提示添加样式。 */
+html,body{margin:0;width:100%;height:100%;overflow:hidden;background:#000;color:#fff}
+#local-error{position:fixed;z-index:99999;left:16px;right:16px;bottom:16px;padding:16px;border:1px solid #c97e50;border-radius:8px;background:#331910;font:16px/1.6 sans-serif}
+#local-error[hidden]{display:none}

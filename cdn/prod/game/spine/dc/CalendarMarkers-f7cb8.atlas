@@ -1,0 +1,10 @@
+CalendarMarkers.png
+size:256,132
+filter:Linear,Linear
+CalendarMarkers/green
+bounds:129,3,128,124
+offsets:1,1,130,126
+rotate:90
+CalendarMarkers/red
+bounds:1,1,130,126
+rotate:90

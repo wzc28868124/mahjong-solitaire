@@ -1,0 +1,6 @@
+.runtime/
+*.log
+*.zip
+node_modules/
+runtime/
+.DS_Store

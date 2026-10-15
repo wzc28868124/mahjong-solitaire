@@ -1,0 +1,13 @@
+Light.png
+size:1140,236
+filter:Linear,Linear
+Light/star
+bounds:1073,171,64,64
+Light/tuowei
+bounds:1,119,534,116
+Light/tuowei2
+bounds:1,1,534,116
+Light/tuowei2_1
+bounds:537,119,534,116
+Light/tuowei_1
+bounds:537,1,534,116

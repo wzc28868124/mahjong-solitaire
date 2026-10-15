@@ -1,0 +1,16 @@
+Eff_Collision_2.png
+size:920,516
+filter:Linear,Linear
+eff_circle_001
+bounds:502,3,252,230
+offsets:1,15,256,256
+rotate:90
+eff_glow_005
+bounds:734,72,183,183
+offsets:13,10,202,204
+eff_glow_006
+bounds:1,1,512,499
+offsets:0,10,512,512
+rotate:90
+eff_huaban_001
+bounds:502,257,256,256

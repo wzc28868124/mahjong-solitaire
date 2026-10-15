@@ -1,0 +1,11 @@
+Eff_Combo.png
+size:518,688
+filter:Linear,Linear
+eff_glow_001
+bounds:2,2,426,429
+offsets:43,41,512,512
+rotate:90
+eff_glow_002
+bounds:2,430,256,256
+eff_glow_003
+bounds:260,430,256,256

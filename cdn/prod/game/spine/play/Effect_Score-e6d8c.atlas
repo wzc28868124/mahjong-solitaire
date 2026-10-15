@@ -1,0 +1,11 @@
+Effect_Score.png
+size:416,128
+filter:Linear,Linear
+Particle_01
+bounds:362,75,50,50
+TT_golw
+bounds:235,1,124,125
+offsets:2,2,128,128
+rotate:90
+Trail_01
+bounds:1,34,232,91

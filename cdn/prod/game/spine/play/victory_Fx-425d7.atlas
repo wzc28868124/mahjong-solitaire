@@ -1,0 +1,10 @@
+victory_Fx.png
+size:64,40
+filter:Linear,Linear
+huaban
+bounds:1,1,39,35
+offsets:0,0,44,38
+shuye
+bounds:42,8,28,21
+offsets:4,4,32,25
+rotate:90
